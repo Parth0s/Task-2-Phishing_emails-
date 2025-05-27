@@ -15,6 +15,6 @@ Email claiming to be from PayPal Support, requesting urgent account verification
 - Report to PayPal's official phishing email address
 - Delete the email immediately
 - Verify account status by logging in directly through PayPal's official website
-- 
+  
 ## Conclusion
 The email exhibits multiple phishing characteristics, including spoofing, suspicious headers, mismatched URLs, and urgent language. It is highly likely a phishing attempt designed to steal user credentials.
