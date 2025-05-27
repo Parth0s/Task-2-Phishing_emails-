@@ -1,0 +1,24 @@
+From: PayPal Support <support@paypal.com>
+Reply-To: customer.service@secure-paypal.org
+To: user@example.com
+Subject: Urgent: Verify Your Account to Avoid Suspension
+Date: Tue, 27 May 2025 14:32:10 +0000
+Message-ID: <20250527143210.123456789@server.secure-paypal.org>
+Return-Path: customer.service@secure-paypal.org
+Received: from server.secure-paypal.org (unknown [192.168.1.100]) by mail.example.com; Tue, 27 May 2025 14:32:10 +0000
+Received: from unknown (HELO fake-server.com) ([203.0.113.5]) by server.secure-paypal.org; Tue, 27 May 2025 14:30:55 +0000
+X-Mailer: CustomPhish v1.0
+Content-Type: text/html; charset="UTF-8"
+MIME-Version: 1.0
+
+<html>
+<body>
+<p>Dear Valued Customer,</p>
+<p>We’ve detected unusual activity on your PayPal account. To prevent suspension, you must verify your account immediately.</p>
+<p>Please click the link below to confirm your identity:</p>
+<p><a href="http://paypal-secure-login.net/verify">Verify Your Account Now</a></p>
+<p>If you don’t act within 24 hours, your account will be locked. Don’t risk losing access to your funds!</p>
+<p>Thank you,<br>
+PayPal Support Team</p>
+</body>
+</html>
