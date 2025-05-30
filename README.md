@@ -1,5 +1,5 @@
 ## Overview
-This repository contains the analysis of a phishing email sample as part of Task 2 of the Eleyate Cyber Security Internship.
+This repository contains the analysis of a phishing email sample as part of Task 2 of the Elevate Cyber Security Internship.
 
 ## Files
 - `phishing_email_sample.txt`: The phishing email sample analyzed.
